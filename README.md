@@ -36,7 +36,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 ## TOC
 ⎯ [Emulators](#emulators)  
 ⎯ [Android](#android)  
-⎯ [Arcade](#arcade)
+⎯ [Arcade](#arcade)  
 ⎯ [Gameboy](#gameboy)  
 ⎯ [Gameboy Color](#gameboy-color)  
 ⎯ [Gameboy Advance](#gameboy-advance)  
