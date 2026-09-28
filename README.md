@@ -253,6 +253,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | --- | --- | --- | --- | --- | --- |  
 | The Legend of Zelda: Twilight Princess | 1.4.3 | 02/07/2026 | [HayatoG/dusklight](https://github.com/HayatoG/dusklight/) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | 🟢 | 2.0.0.25 | 19/06/2026 | [souldbminerr/dusklight-nx](https://github.com/souldbminerr/dusklight-nx) | [Link](https://gbatemp.net/threads/dusklight-switch-port-720p-30fps-at-stock-clocks-2x-performance-compared-to-old-port.684545/) | Yes |  
+| 🟢 | v1.4.1.0-test | 20/06/2026 | [givethesourceplox/dusk](https://github.com/givethesourceplox/dusk) | [Link](https://gbatemp.net/threads/dusk-for-switch-tloz-twilight-princess-port.681677/) | Yes |  
 | 🟢 Super Mario Strikers | 1.9.9 *prerelease* | 18/09/2026 |[new-coke/strikers](https://github.com/new-coke/strikers) | [Link](https://gbatemp.net/threads/strikers-a-native-port-of-super-mario-strikers-is-testing-a-switch-port.684553/) | Yes |  
 | 🟢 Super Smash Bros. Melee | 0.2.0 *beta* | 22/09/2026 | [KawaiiBunga/Melee-NX](https://github.com/KawaiiBunga/Melee-NX) | Link | Yes |  
 
@@ -378,7 +379,7 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 ### Xbox 360
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | --- | --- | --- | --- | --- | --- |  
-| 🟢 Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | Link | Yes |  
+| 🟢 Need for Speed: Most Wanted | 1.0.0 | 27/09/2026 | [StevensND/nfsmw-nx](https://github.com/StevensND/nfsmw-nx) | [Link](https://gbatemp.net/threads/need-for-speed-most-wanted-2005-switch-port.684784/) | Yes |  
 | Sonic Unleashed | 0.0.3 | 30/07/2026 | [NaGaa95/UnleashedRecomp-NX](https://github.com/NaGaa95/UnleashedRecomp-NX/) | [Link](https://gbatemp.net/threads/sonic-unleashed-recompiled-homebrew-port.681869/) | Yes |  
 
 - 0/1 updated 21/09/2026  
