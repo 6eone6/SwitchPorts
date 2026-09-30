@@ -5,6 +5,7 @@
 Atmosphere has been updated and BornToHonk's fork has been as well. DNS MITM is currently broken.
 It is not recommended to upgrade yet. If you do, block Nintendo servers via pi-hole or other DNS solution.</div>
 
+![Platform](https://img.shields.io/badge/Platform-Nintendo%20Switch-e60012?style=for-the-badge&logo=nintendoswitch&logoColor=white)
 # SwitchPorts
 ## Software Ported to Nintendo Switch  
 
@@ -334,8 +335,10 @@ Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |
 | Touhou 6: Embodiment of the Scarlet Devil | *released* | 01/07/2026 | [saekaze/th06-switch](https://github.com/saekaze/th06-switch) | [Link](https://gbatemp.net/threads/touhou-6-switch-port.682936/) | Yes |  
 | Touhou 7: Perfect Cherry Blossom | *released* | 15/08/2026 | [saekaze/th07-switch](https://github.com/saekaze/th07-switch) | [Link](https://gbatemp.net/threads/touhou-7-switch-port.683780/) | Yes |  
 | Touhou 8: Imperishable Night | 1.00d r3 | 13/09/2026 | [saekaze/th08-switch](https://github.com/saekaze/th08-switch) | [Link](https://gbatemp.net/threads/touhou-8-switch-port.684134/) | Yes |  
+| 🟢 Touhou 9: Phantasmagoria of Flower View | v1.50a-r2 | 30/09/2026 | [saekaze/th09-switch](https://github.com/saekaze/th09-switch) | [Link](https://gbatemp.net/threads/touhou-9-switch-port.684847/) | Yes |  
 | Touhou Wonderful Waking World | lag-fix-1 | 15/09/2026 | [saekaze/thWWW-switch](https://github.com/saekaze/thWWW-switch) | [Link](https://gbatemp.net/threads/touhou-wonderful-waking-world-switch-port.684305/) | Yes |  
 | Touhou 10: Mountain of Faith | *released* | 15/09/2026 | [saekaze/th10-switch](https://github.com/saekaze/th10-switch) | [Link](https://gbatemp.net/threads/touhou-10-switch-port.684458/) | Yes |  
+| 🟢 Touhou 11: Subterranean Animism | v1.00a-r3 | 30/09/2026 | [saekaze/th11-switch](https://github.com/saekaze/th11-switch) | [Link](https://gbatemp.net/threads/touhou-11-switch-port.684849/) | Yes |  
 | Undertale Yellow | 1.0.0 | 30/08/2026 | [NalienDev/Undertale-Yellow-NX](https://github.com/NalienDev/Undertale-Yellow-NX) | Link | Yes |  
 | Warcraft | 3.3.3-NX | 14/09/2026 | [Thorhax/War1gus-NX-Modern](https://github.com/Thorhax/War1gus-NX-Modern) | Link | Yes |  
 | Warcraft II | 3.3.2-NX.2 | 09/09/2026 | [Thorhax/Wargus-NX-Modern](https://github.com/Thorhax/Wargus-NX-Modern) | Link | Yes |  
