@@ -218,6 +218,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | Game | Version | Last Updated? | Link | GBATemp Thread? | Updated for FW 21+? |  
 | --- | --- | --- | --- | --- | --- |  
 | 🟢 Killer Instinct | 1.0.0 | 27/09/2026 | [Thorhax/Killer-Instinct-NX-Modern](https://github.com/Thorhax/Killer-Instinct-NX-Modern) | Link | Yes |  
+| 🟢 Killer Instinct 2 | 1.0.0 | 29/09/2026 | [Thorhax/Killer-Instinct-2-NX-Modern](https://github.com/Thorhax/Killer-Instinct-2-NX-Modern) | Link | Yes |  
 
 - 1/1 updated 28/09/2026  
 ⎯ [Top](#toc)
