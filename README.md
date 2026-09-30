@@ -169,6 +169,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | ~~PES 2021~~ | ~~0.1.98~~ | ~~24/08/2026~~ | [Link Removed]() | [Link Removed]() | ~~Yes~~ |  
 | Pizza vs. Skeletons | 1.0.0 | 02/09/2026 | [ChanseyIsTheBest/pvs_nx/](https://github.com/ChanseyIsTheBest/pvs_nx/) | [Link](https://gbatemp.net/threads/pizza-vs-skeletons-switch-port.684163/) | Yes |  
 | Phigros | 1.0.3 | 20/08/2026 | [ChanseyIsTheBest/phigros_nx](https://github.com/ChanseyIsTheBest/phigros_nx) | [Link](https://gbatemp.net/threads/phigros-switch-port.683727/) | Yes |  
+| Phigros CN  | 2.2.0  | 30/09/2026  | [6eone6/phigros_nx_cn](https://github.com/6eone6/phigros_nx_cn) | Link | Yes |
 | Plants vs. Zombies: Fusion | 1.0.11 | 22/08/2026 | [ChanseyIsTheBest/pvz_fusion_en_nx](https://github.com/ChanseyIsTheBest/pvz_fusion_en_nx) | [Link](https://gbatemp.net/threads/plants-vs-zombies-fusion-switch-port.683213/) | Yes |  
 | Plants vs. Zombies 2 | 1.2.0 | 26/08/2026 | [xflipperkast/PVZ2_NX](https://github.com/xflipperkast/PVZ2_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-switch-port.683717/) | Yes |  
 | Plants vs. Zombies 2: Reflourished | 1.0.0 | 27/08/2026 | [xflipperkast/PVZ2RF_NX](https://github.com/xflipperkast/PVZ2RF_NX) | [Link](https://gbatemp.net/threads/plants-vs-zombies-2-reflourished-switch-port.684044/) | Yes |  
