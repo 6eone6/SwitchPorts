@@ -278,6 +278,7 @@ If a repo is found to be disseminating copyrighted materials, it will be removed
 | 🟢 Super Smash Bros. | 1.6.0 | 23/09/2026 | [KawaiiBunga/BattleShipNX](https://github.com/KawaiiBunga/BattleShipNX) | Link | Yes |  
 | | 1.3.0 | 12/06/2026 | [delsonazevedo/BattleShip-Switch](https://github.com/delsonazevedo/BattleShip-Switch) | Link | Yes |  
 | 🟢 Wave Race 64 | 0.1.0 | 21/09/2026 | [1weell/RaceWave46-Switch](https://github.com/1weell/RaceWave46-Switch) | Link | Yes |  
+| 🟢 | 1.0.0 | 16/09/2026 | [DomazinUS/RaceWave46](https://github.com/DomazinUS/RaceWave46) | [Link](https://gbatemp.net/threads/release-racewave46-wave-race-64-recompiled-for-nintendo-switch-60fps-720p-1080p-stock-clocks.684841/) | Yes |  
 
 - 3/15 updated 28/09/2026  
 ⎯ [Top](#toc)  
